@@ -1,13 +1,3 @@
-<<<<<<< Updated upstream
-# Mandatory eatures
-_must be ready before release_
-- Transcribe english audio
-- Output audio in plain text
-- Use Groq API
-- Throw errors on errors
-
-# Whisper compatibility
-=======
 # I. Mandatory features
 _must be ready before release_
 - Transcribe english audio
@@ -16,18 +6,15 @@ _must be ready before release_
 - Throw errors on errors
 
 # II. Whisper compatibility
->>>>>>> Stashed changes
+_drop-in replacement for openai whisper_
 - Translate to english
 - Choose model
 - Batch processing
 - More audio formats
 - More output formats
 
-<<<<<<< Updated upstream
-# Additional functionality
-=======
 # III. Additional functionality
->>>>>>> Stashed changes
+_my own tweaks and features_
 - Translate to other languages using different AI models
 - Automatically convert and optimize audio
 - Clean audio files
